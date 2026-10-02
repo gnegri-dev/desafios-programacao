@@ -1,9 +1,8 @@
 # Resolução de Desafios Práticos
-* **Estudante:** [Seu Nome Completo]
-* **Plataforma Utilizada:** [freeCodeCamp / Coddy / Beecrowd /
-HackerRank]
+* **Estudante:** Gustavo Negri Oliveira
+* **Plataforma Utilizada:** [freeCodeCamp / Coddy / Beecrowd.
 * **Tecnologia Praticada:** [Linguagem C / SQL / HTML e CSS]
-* **Disciplina:** [Nome da sua disciplina / turma]
+* **Disciplina:** Design Profissional
 ---
 ## Tabela de Exercícios e Comprovações
 | Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma
@@ -24,5 +23,7 @@ prints foram recomendados para a plataforma que você escolheu.*
 ## Resumo dos Conceitos Praticados
 Descreva em 1 ou 2 parágrafos o que você aprendeu:
 * Quais foram as principais dificuldades?
+* Minhas dificuldades foram a escritas dos códigos e a estrutura
 * Quais estruturas foram mais utilizadas? (Ex: `if/else`, laços
 `for/while`, tags `<div>`, comandos `SELECT`).
+tags e comandos.
